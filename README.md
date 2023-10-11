@@ -1,1 +1,1 @@
-# seg_info
+## Projeto destinado à Unidade Curricular de Segurança da Informação 
