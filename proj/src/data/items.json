@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nome": "Livro",
+        "preço": 20.00,
+        "imgUrl": "/imgs/livro.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Notebook",
+        "preço": 2000.00,
+        "imgUrl": "/imgs/notebook.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "Celular",
+        "preço": 1500.00,
+        "imgUrl": "/imgs/celular.jpg"
+    }
+]
