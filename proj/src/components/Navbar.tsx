@@ -13,7 +13,7 @@ export function Navbar() {
             Loja
           </Nav.Link>
           <Nav.Link to="/sobre" as={NavLink}>
-            Sobre
+            Termos
           </Nav.Link>
         </Nav>
         <Button style={{ width: "3rem", height: "3rem" }}
