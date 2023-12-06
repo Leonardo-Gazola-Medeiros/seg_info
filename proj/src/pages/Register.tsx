@@ -39,7 +39,7 @@ export default function Register() {
                     </div>
                     <div className="input_wrapper">
                         <label htmlFor='phone'>Telefone</label>
-                        <input placeholder='digite o telefonee' id='phone' required onChange={(e) => { setPhone(e.target.value) }}></input>
+                        <input placeholder='digite o telefone' id='phone' required onChange={(e) => { setPhone(e.target.value) }}></input>
                     </div>
                 </div>
                 <div className="form_wrapper">
