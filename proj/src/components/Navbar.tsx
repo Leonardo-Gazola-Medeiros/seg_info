@@ -9,7 +9,7 @@ export function Navbar() {
           <Nav.Link to="/" as={NavLink}>
             Home
           </Nav.Link>
-          <Nav.Link to="/loja" as={NavLink}>
+          <Nav.Link to="/cadastro" as={NavLink}>
             Loja
           </Nav.Link>
           <Nav.Link to="/sobre" as={NavLink}>

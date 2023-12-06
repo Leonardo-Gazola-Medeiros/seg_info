@@ -4,7 +4,7 @@ export function Home() {
     <>
     <h1>Home</h1>
     
-    <h3>oi</h3>
+    <h3>Bem vindo a ADS Store</h3>
     </>
   )
   
