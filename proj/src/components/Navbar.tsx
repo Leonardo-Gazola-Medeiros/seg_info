@@ -9,11 +9,14 @@ export function Navbar() {
           <Nav.Link to="/" as={NavLink}>
             Home
           </Nav.Link>
-          <Nav.Link to="/cadastro" as={NavLink}>
+          <Nav.Link to="/loja" as={NavLink}>
             Loja
           </Nav.Link>
           <Nav.Link to="/sobre" as={NavLink}>
             Termos
+          </Nav.Link>
+          <Nav.Link to="/cadastro" as={NavLink}>
+            Usuário
           </Nav.Link>
         </Nav>
         <Button style={{ width: "3rem", height: "3rem" }}
