@@ -5,6 +5,7 @@ import { Store } from "./pages/Store"
 import { About } from "./pages/About"
 import { Navbar } from "./components/Navbar"
 import { ShoppingCartProvider } from "./context/ShoppingCartContext"
+import Register from "./pages/Register"
 
 function App() {
     return(
@@ -15,6 +16,7 @@ function App() {
                     <Route path="/" element={<Home />} />
                     <Route path="/loja" element={<Store />} />
                     <Route path="/sobre" element={<About />} />
+                    <Route path="/cadastro" element={<Register />} />
                 </Routes>
             </Container>
         </ShoppingCartProvider>
